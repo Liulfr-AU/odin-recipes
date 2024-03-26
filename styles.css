@@ -1,0 +1,20 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#title{
+    background-color: greenyellow;
+    text-align: center;
+}
+
+#description{
+    color: blue;
+}
+
+.heading{
+    background-color: yellow;
+}
+
+.text{
+    color:darkblue;
+}
