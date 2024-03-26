@@ -2,19 +2,47 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+body {
+    width: 600px;
+    margin: 10px auto;
+    background-color: white;
+}
+
+.box {
+    background-color: burlywood;
+    padding: 10px;
+    outline: 1px solid black;
+}
+
 #title{
-    background-color: greenyellow;
+    background-color: white;
     text-align: center;
+    width: auto;
+    margin: 0px auto;
+    padding: 10px;
+    outline: 1px solid black;
 }
 
 #description{
-    color: blue;
+    color: black;
+    text-align: left;
 }
 
 .heading{
-    background-color: yellow;
+    display: inline;
+    background-color: white;
+    font-size: 20px;
+    padding: 4px;
+    outline: 1px solid black;
 }
 
 .text{
-    color:darkblue;
+    color:black;
+}
+
+.image{
+    display: block;
+    margin: 10px auto;
+    outline: 1px solid black;
+    
 }
